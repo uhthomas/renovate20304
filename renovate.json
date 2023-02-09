@@ -1,0 +1,18 @@
+{
+  "extends": [
+    "config:base"
+  ],
+  "packageRules": [
+    {
+      "matchDatasources": [
+        "docker"
+      ],
+      "matchPackageNames": [
+        "alpine"
+      ],
+      "replacementName": "debian",
+      "replacementVersion": "bullseye"
+    }
+  ],
+  "pinDigests": true
+}

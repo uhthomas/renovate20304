@@ -11,7 +11,7 @@
         "gcr.io/distroless/base-debian10"
       ],
       "replacementName": "gcr.io/distroless/base-debian11",
-      "replacementVersion": "latest"
+      "replacementVersion": "nonroot"
     }
   ],
   "pinDigests": true,

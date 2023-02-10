@@ -8,7 +8,7 @@
         "docker"
       ],
       "matchPackageNames": [
-        "alpine"
+        "ubuntu"
       ],
       "replacementName": "debian",
       "replacementVersion": "bullseye"

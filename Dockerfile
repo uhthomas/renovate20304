@@ -1,1 +1,1 @@
-FROM ubuntu:23.04
+FROM marketplace.gcr.io/google/debian10

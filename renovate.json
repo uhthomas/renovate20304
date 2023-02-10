@@ -14,5 +14,6 @@
       "replacementVersion": "bullseye"
     }
   ],
-  "pinDigests": true
+  "pinDigests": true,
+  "branchNameStrict": true
 }

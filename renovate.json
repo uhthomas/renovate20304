@@ -8,10 +8,10 @@
         "docker"
       ],
       "matchPackageNames": [
-        "ubuntu"
+        "marketplace.gcr.io/google/debian10"
       ],
-      "replacementName": "debian",
-      "replacementVersion": "bullseye"
+      "replacementName": "marketplace.gcr.io/google/debian11",
+      "replacementVersion": "latest"
     }
   ],
   "pinDigests": true,

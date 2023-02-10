@@ -1,1 +1,1 @@
-FROM ubuntu:23.04@sha256:52293638ba652a2e8f9e1c1cfcc905839b1f2a9e671ddcc9bf77909b6bf527d0
+FROM debian:bullseye@sha256:43ef0c6c3585d5b406caa7a0f232ff5a19c1402aeb415f68bcd1cf9d10180af8

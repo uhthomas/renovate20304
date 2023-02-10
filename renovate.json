@@ -8,9 +8,9 @@
         "docker"
       ],
       "matchPackageNames": [
-        "marketplace.gcr.io/google/debian10"
+        "gcr.io/distroless/base-debian10"
       ],
-      "replacementName": "marketplace.gcr.io/google/debian11",
+      "replacementName": "gcr.io/distroless/base-debian11",
       "replacementVersion": "latest"
     }
   ],

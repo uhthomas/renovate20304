@@ -1,1 +1,1 @@
-FROM marketplace.gcr.io/google/debian10:latest
+FROM gcr.io/distroless/base-debian10:debug

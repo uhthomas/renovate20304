@@ -1,1 +1,1 @@
-FROM alpine:3.17.1
+FROM ubuntu:23.04@sha256:52293638ba652a2e8f9e1c1cfcc905839b1f2a9e671ddcc9bf77909b6bf527d0

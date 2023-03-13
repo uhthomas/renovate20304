@@ -1,1 +1,1 @@
-FROM gcr.io/distroless/base-debian10:debug
+FROM gcr.io/distroless/base-debian10:debug@sha256:5095557213149f19631bdd591dfb1a37221ce4c92fa16a990656403ae8a1201d
